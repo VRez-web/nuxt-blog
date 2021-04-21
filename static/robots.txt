@@ -1,0 +1,17 @@
+User-agent:*
+Disallow:/admin/
+Disallow:/*?*
+Disallow:/*.pdf
+Disallow:/*.doc
+
+User-agent:Googlebot
+Disallow:/admin/
+Disallow:/*?*
+Disallow:/*.pdf
+Disallow:/*.doc
+
+User-agent:Yandex
+Disallow:/admin/
+Disallow:/*?*
+Disallow:/*.pdf
+Disallow:/*.doc
