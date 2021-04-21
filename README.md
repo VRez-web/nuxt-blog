@@ -2,10 +2,10 @@
 
 Blog - блог+crm  сделано на nuxt js.
 
-Админка:
-Логин:admin@email.ru
-Пароль:123456
-[Демо](https://blog-on-nuxt.netlify.app)
+Админка:  
+Логин:admin@email.ru  
+Пароль:123456  
+[Демо](https://blog-on-nuxt.netlify.app)  
 
 ## Функционал:
 
