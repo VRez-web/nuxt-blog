@@ -1,6 +1,6 @@
-# blog
+# Blog
 
-Blog - блог+crm  сделано на nuxt js.
+Блог+CRM  сделано на nuxt js.
 
 Админка:  
 Логин:admin@email.ru  
